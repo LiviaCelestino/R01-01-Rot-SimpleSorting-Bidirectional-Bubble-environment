@@ -27,3 +27,23 @@
   <level>FINE</level>
   <message>File 123110323-ANA LIVIA COSTA CELESTINO SANTOS.zip was received. It was sent by ANA LIVIA COSTA CELESTINO SANTOS from IP 10.220.0.11 at 28-07-2024 15*59*50</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-30T10:15:15.675-0300</date>
+  <logger>ANA LIVIA COSTA CELESTINO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 123110323-ANA LIVIA COSTA CELESTINO SANTOS.zip was received. It was sent by ANA LIVIA COSTA CELESTINO SANTOS from IP 172.20.10.2 at 30-07-2024 10*15*15</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-30T23:09:42.390-0300</date>
+  <logger>ANA LIVIA COSTA CELESTINO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 123110323-ANA LIVIA COSTA CELESTINO SANTOS.zip was received. It was sent by ANA LIVIA COSTA CELESTINO SANTOS from IP 10.220.0.11 at 30-07-2024 23*09*42</message>
+</record>
